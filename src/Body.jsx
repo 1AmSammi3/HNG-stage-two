@@ -4,7 +4,9 @@ const Body = ({link}) => {
  
   return (
   <div>
-    Hello Sammie
+    <Navbar />
+    <Hero />
+    <About />
   </div>
   );
 }
