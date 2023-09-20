@@ -1,6 +1,7 @@
 import React from 'react';
 import Style from './Navbar.css';
 import Bot from './Bot';
+import Menu from './Menu';
 
 const Navbar = () => {
   return(
@@ -9,6 +10,7 @@ const Navbar = () => {
         <Bot />
         <span>Logo Header</span>
       </div>
+      <Menu />
     </div>  
   );
 }
