@@ -11,7 +11,7 @@ url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap'
   justify-content: space-between;
   align-items: center;
   padding-inline: 20px;
-  position: fixed;
+  position: sticky;
   top: 0;
   padding-block: 10px;
   box-shadow: 0 1px 5px #00000032;
