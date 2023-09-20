@@ -4,7 +4,7 @@ import Style from "./Hero.css";
 const Hero = () => {
   return(
     <div>
-      Hello world
+      <img src="./Assets/john.jpg" alt="A picture of john wick">
     </div>
   );
 }
