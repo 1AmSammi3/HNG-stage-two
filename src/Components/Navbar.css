@@ -3,6 +3,11 @@
   justify-content: space-between;
   align-items: center;
   padding-inline: 20px;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  padding-block: 10px;
+  box-shadow: 0 5px 50px #00000041;
 }
 .logo{
   display: flex;
