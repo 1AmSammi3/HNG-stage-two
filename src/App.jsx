@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Body from './Body';
+import Body from './Components/Body';
 
 const App =() => {
   return(
