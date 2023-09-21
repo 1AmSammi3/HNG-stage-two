@@ -3,7 +3,7 @@ import Style from "./Card.css";
 
 const Card = (props) => {
   return(
-    <div>
+    <div className="CardAll">
       <img src={props.img}/>
     </div>
   );
