@@ -10,7 +10,7 @@ const Body = ({link}) => {
   <div>
     <Navbar />
     <Hero />
-    <div className="CardView">
+    <div className="cardView">
       <Card img="./src/Components/Assets/manager.jpg"/>
       <Card img="./src/Components/Assets/CEO.png"/>
       <Card img="./src/Components/Assets/Founder.jpg"/>
