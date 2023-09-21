@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Navbar from './Navbar';
 import Hero from './Hero';
 import Style from './Body.css';
+import Card from './Card';
 
 const Body = ({link}) => {
  
