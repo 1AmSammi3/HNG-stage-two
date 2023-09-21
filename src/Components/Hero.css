@@ -1,6 +1,7 @@
 container{
   position: relative;
   height: 400px;
+  background: black;
 }
 img{
   width: 100vw;
@@ -8,4 +9,5 @@ img{
   position: absolute;
   top: 0;
   left: 0;
+  filter: opacity(20%);
 }
