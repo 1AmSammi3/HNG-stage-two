@@ -9,6 +9,12 @@ const Body = ({link}) => {
   <div>
     <Navbar />
     <Hero />
+    <div>
+      <Card/>
+      <Card/>
+      <Card/>
+      <Card/>
+    </div>
   </div>
   );
 }
