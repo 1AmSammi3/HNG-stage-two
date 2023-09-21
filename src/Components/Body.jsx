@@ -7,7 +7,7 @@ import Card from './Card';
 const Body = ({link}) => {
  
   return (
-  <div>
+  <div className="all">
     <Navbar />
     <Hero />
     <div className="cardView">
