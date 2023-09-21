@@ -1,5 +1,6 @@
 .hero{
   display: flex;
+  margin-block-start: 50px;
   flex-direction: column;
   text-align: center;
   align-items: center;
@@ -11,5 +12,7 @@ button{
   padding: 5px 20px 5px 20px;
   background: #BE123C;
   margin-block-start: 20px;
+  border: none;
+  border-radius: 10px;
   color: white;
 }
