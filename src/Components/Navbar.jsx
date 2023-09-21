@@ -5,7 +5,7 @@ import Menu from './Menu';
 
 const Navbar = () => {
   return(
-    <div className="container nav">
+    <div className="nav">
       <div className = "logo">
         <Bot />
         <span>Logo Header</span>
