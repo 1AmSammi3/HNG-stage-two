@@ -1,7 +1,7 @@
 container{
   position: relative;
-  height: 400px;
-  background: black;
+  height: auto;
+  background-color: black;
 }
 img{
   width: 100vw;
