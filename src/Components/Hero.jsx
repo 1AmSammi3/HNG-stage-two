@@ -3,8 +3,9 @@ import Style from "./Hero.css";
 
 const Hero = () => {
   return(
-    <div>
+    <div className="container">
       <img src="src/Components/Assets/john.jpg" alt="A picture of john wick"/>
+      
     </div>
   );
 }
