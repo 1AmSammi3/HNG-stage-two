@@ -1,11 +1,11 @@
-.container{
+.container .hero{
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
   justify-content: center;
   gap: 5px;
-  height: auto;
+  height: 100%;
 }
 button{
   padding: 10px;
