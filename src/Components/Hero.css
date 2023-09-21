@@ -1,4 +1,4 @@
-.container .hero{
+.hero{
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -9,7 +9,7 @@
 }
 button{
   padding: 5px 20px 5px 20px;
-  background: #5000a7;
+  background: #BE123C;
   margin-block-start: 20px;
   color: white;
 }
