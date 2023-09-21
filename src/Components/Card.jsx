@@ -1,10 +1,10 @@
 import React from "react";
 import Style from "./Card.css";
 
-const Card = () => {
+const Card = (props) => {
   return(
     <div>
-      <img src="./src/Components/Assets/manager.jpg"/>
+      <img src={props.img}/>
     </div>
   );
 }
