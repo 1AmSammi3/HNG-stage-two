@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+button{
+  padding: 10px;
+  background: #5000a7;
+  margin-block-start: 20px;
+}
