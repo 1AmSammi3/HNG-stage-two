@@ -1,6 +1,5 @@
 .container{
   position: relative;
-  height: auto;
   background-color: black;
   display: inline-block;
 }
@@ -16,5 +15,5 @@ img{
   position: absolute;
   top: 0;
   left: 0;
-  filter: opacity(20%);
+  filter: opacity(70%);
 }
