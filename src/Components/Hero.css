@@ -8,7 +8,8 @@
   height: 100%;
 }
 button{
-  padding: 10px;
+  padding: 5px 20px 5px 20px;
   background: #5000a7;
   margin-block-start: 20px;
+  color: white;
 }
