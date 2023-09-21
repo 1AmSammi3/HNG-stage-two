@@ -11,10 +11,10 @@ const Body = ({link}) => {
     <Navbar />
     <Hero />
     <div>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Card img="./src/Components/Assets/manager.jpg"/>
+      <Card img="./src/Components/Assets/CEO.jpg"/>
+      <Card img="./src/Components/Assets/Founder.jpg"/>
+      <Card img="./src/Components/Assets/Director.jpg"/>
     </div>
   </div>
   );
