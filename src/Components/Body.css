@@ -5,7 +5,11 @@
   margin-block-start: 50px;
   margin-left: auto;
 }
-
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 @media only screen and (min-width: 768px){
   .cardView{
     grid-template-columns: repeat(2, 1fr);
