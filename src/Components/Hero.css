@@ -1,6 +1,6 @@
 .hero{
   display: flex;
-  margin-block-start: 50px;
+  margin-block-start: 100px;
   flex-direction: column;
   text-align: center;
   align-items: center;
