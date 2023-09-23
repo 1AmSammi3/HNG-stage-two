@@ -1,7 +1,7 @@
 import React from "react";
 import Style from "./Card.css";
 
-const Card = (img) => {
+const Card = ({img}) => {
   return(
     <div className="cardAll">
       <img src={`./src/Components/Assets/${img}`}/>
