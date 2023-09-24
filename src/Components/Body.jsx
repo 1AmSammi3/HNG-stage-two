@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import Hero from './Hero';
 import Style from './Body.css';
 import Card from './Card';
+import ImageData from './imagesData';
 
 const Body = ({link}) => {
  
