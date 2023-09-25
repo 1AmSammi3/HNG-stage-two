@@ -5,9 +5,17 @@ import Style from './Body.css';
 import Card from './Card';
 import ImageData from './imagesData';
 
-const Body = ({link}) => {
+const Body = () => {
  
- const images = imagesData.map(image => {return <Card img={image.img} />});
+ const images = imagesData.map(data => {
+   return <Card 
+   img={data.img}
+   post={data.post}
+   contact={data.contact} 
+   />
+   
+ }
+   );
  
   return (
   <div className="all">
