@@ -4,7 +4,7 @@ import Style from "./Card.css";
 const Card = ({img}) => {
   return(
     <div className="cardAll">
-      <img src={`./src/Components/Assets/${img}`}/>
+      <img src={`./public/Assets/${img}`}/>
     </div>
   );
 }
